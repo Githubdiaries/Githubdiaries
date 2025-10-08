@@ -1,69 +1,21 @@
-# 🎓 My Microsoft Learn Achievements
 
-A visual showcase of my 5 trophies and 26 badges—organized for clarity and impact.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AKSA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aksa-susan-abraham/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aksasusan28@gmail.com) 
 
----
+# 💻 Tech Stack:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Githubdiaries&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Githubdiaries&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Trophies
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/UXJ7LCQ3?sharingId=3D16212681ED8892">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/UXJ7LCQ3/image" width="96" alt="Explore & analyze data with Python Trophy"/>
-  </a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/NZV4RQQF?sharingId=3D16212681ED8892">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/NZV4RQQF/image" width="96" alt="Challenge project with Copilot Trophy"/>
-  </a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/8R93ZJMW?sharingId=3D16212681ED8892">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/8R93ZJMW/image" width="96" alt="Updates & upgrades Trophy"/>
-  </a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/ZPYABGS2?sharingId=3D16212681ED8892">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/ZPYABGS2/image" width="96" alt="Mobile experiences Trophy"/>
-  </a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/HYC94JT8?sharingId=3D16212681ED8892">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/HYC94JT8/image" width="96" alt="Lifecycle Services Trophy"/>
-  </a>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Githubdiaries&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Githubdiaries&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏅 Badges
-
-<div align="center">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/PTVM88Z4?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/PTVM88Z4/image" width="64" alt="FastTrack Customer Success Program"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/9NLGQVBU?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/9NLGQVBU/image" width="64" alt="Finance & Ops Implementation"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/24RA6FHV?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/24RA6FHV/image" width="64" alt="Foundational components Power Platform"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/QDZ2U3ME?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/QDZ2U3ME/image" width="64" alt="AI authoring in Power Platform"/></a>
-</div>
-<div align="center">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/CW5LVZQ9?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/CW5LVZQ9/image" width="64" alt="Capabilities of Power Pages"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/N73HB75F?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/N73HB75F/image" width="64" alt="Intro to Defender XDR"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/J64KFD6T?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/J64KFD6T/image" width="64" alt="Build Teams bots"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/7EXY5WFZ?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/7EXY5WFZ/image" width="64" alt="Responsible Generative AI"/></a>
-</div>
-<div align="center">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/HYC9EKJ8?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/HYC9EKJ8/image" width="64" alt="Teams Toolkit Trophy"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/QDAN7PME?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/QDAN7PME/image" width="64" alt="Azure OpenAI Service"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/N7959T9F?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/N7959T9F/image" width="64" alt="Fundamentals of Generative AI"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/4S2YZXJK?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/4S2YZXJK/image" width="64" alt="Machine Learning Fundamentals"/></a>
-</div>
-<div align="center">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/24FNSDKV?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/24FNSDKV/image" width="64" alt="Discover & use Web APIs"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/VKXFSAFM?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/VKXFSAFM/image" width="64" alt="OpenAPI & APIM"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/8RGLVGBW?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/8RGLVGBW/image" width="64" alt="Power Apps Component"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/9NTJA4CU?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/9NTJA4CU/image" width="64" alt="Low Code Developer"/></a>
-</div>
-<div align="center">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/WA6GMEEN?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/WA6GMEEN/image" width="64" alt="Fusion Dev Business Software"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/YV3U4MQR?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/YV3U4MQR/image" width="64" alt="Power Platform Solutions"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/WA6GVC5N?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/WA6GVC5N/image" width="64" alt="Power BI Capabilities"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/9NTJR7JU?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/9NTJR7JU/image" width="64" alt="Power Automate Automation"/></a>
-</div>
-<div align="center">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/QDRY5TAE?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/QDRY5TAE/image" width="64" alt="Power Apps Development"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/3X5S784H?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/3X5S784H/image" width="64" alt="CDS Foundations"/></a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/PT7AL3Q4?sharingId=3D16212681ED8892"><img src="https://learn.microsoft.com/api/achievements/share/en-us/AKSASUSANABRAHAM-0690/PT7AL3Q4/image" width="64" alt="Business Value of Power Platform"/></a>
-</div>
-
----
-
-🔗 [View all badges on my Microsoft Learn profile](https://learn.microsoft.com/en-us/users/aksasusanabraham-0690/achievements?tab=credentials-tab)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
