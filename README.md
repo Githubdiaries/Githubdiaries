@@ -12,4 +12,3 @@ Celebrating key milestone trophies earned on Microsoft Learn:
 
 ---
 
-✨ Showcase your trophies boldly with these sized images! Add this to your README for eye-catching display.
