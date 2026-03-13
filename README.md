@@ -32,7 +32,6 @@
 
 # 📊 GitHub Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Githubdiaries&theme=dark)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Githubdiaries&theme=dark)
 
