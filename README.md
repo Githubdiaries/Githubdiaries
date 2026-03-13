@@ -1,16 +1,11 @@
-# Hi 👋 I'm Aksa Susan Abraham
 
- AI/ML Enthusiast
-
-
----
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aksa-susan-abraham/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:aksasusan28@gmail.com)
 
----
+
 
 # 💻 Tech Stack
 
@@ -25,17 +20,17 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
 
----
+
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Githubdiaries\&theme=dark\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Githubdiaries&theme=dark&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Githubdiaries\&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Githubdiaries&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries\&layout=compact\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=dark&hide=html,css)
 
----
+
 
  Exploring ⭐
 
