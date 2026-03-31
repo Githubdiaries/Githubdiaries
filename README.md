@@ -32,10 +32,8 @@
 # 📊 GitHub Stats
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Githubdiaries&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=dark&hide=html,css) 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitHubdiaries&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubdiaries&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
  Exploring ⭐
