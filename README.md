@@ -33,7 +33,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitHubdiaries&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Githubdiaries&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/Githubdiaries)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Githubdiaries)
 
  Exploring ⭐
 
