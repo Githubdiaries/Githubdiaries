@@ -3,7 +3,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aksa-susan-abraham/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:aksasusan28@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:aksasusan1904@gmail.com)
 
 
 
@@ -33,7 +33,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitHubdiaries&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=GitHubdiaries&layout=compact&theme=tokyonight&cache_seconds=1800)        ](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Githubdiaries&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/Githubdiaries)
 
  Exploring ⭐
 
