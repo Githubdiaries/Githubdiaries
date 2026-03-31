@@ -10,7 +10,6 @@
 # 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
@@ -23,8 +22,8 @@
 
 ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-
+![TypeScript](https://img.shields.io/badge/typescript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -35,7 +34,7 @@
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Githubdiaries&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=dark&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=dark&hide=html,css) 
 
 
 
