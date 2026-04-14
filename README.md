@@ -28,12 +28,13 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-
 # 📊 GitHub Stats
 
-[<image-card alt="GitHub Streak" src="https://github-readme-streak-stats.vercel.app/?user=Githubdiaries&theme=tokyonight" ></image-card>](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Githubdiaries&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&count_private=false&cache_seconds=3600)](https://github.com/Githubdiaries)
- Exploring ⭐
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&count_private=true&include_all_commits=true)](https://github.com/Githubdiaries)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Githubdiaries&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/Githubdiaries)
+
+Exploring ⭐
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
