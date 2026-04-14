@@ -34,8 +34,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitHubdiaries&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Githubdiaries)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&count_private=false&cache_seconds=3600)](https://github.com/Githubdiaries)
  Exploring ⭐
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
