@@ -31,8 +31,7 @@
 
 # 📊 GitHub Stats
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitHubdiaries&theme=tokyonight)](https://git.io/streak-stats)
+[<image-card alt="GitHub Streak" src="https://github-readme-streak-stats.vercel.app/?user=Githubdiaries&theme=tokyonight" ></image-card>](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&count_private=false&cache_seconds=3600)](https://github.com/Githubdiaries)
  Exploring ⭐
