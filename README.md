@@ -31,7 +31,7 @@
 
 # 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Githubdiaries)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Githubdiaries&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githubdiaries&layout=compact&theme=tokyonight&hide=html,css&count_private=true&include_all_commits=true)](https://github.com/Githubdiaries)
 
